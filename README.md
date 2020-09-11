@@ -14,21 +14,21 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Tino's Cloud Journey
 
-[✍️ Introduce yourself]
+I am a Computer Science Student who stumbled upon the cloud and got hooked instantly lol
 
-[✍️ Tell us why you started this challenge]
+Starting this challenge will force me to be constistent with my cloud journey and it will help me to track my progress.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+By the end of the challenge l would want to be more conversant with the cloud and also design architectures in the cloud. 
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- (https://twitter.com/Tino_Mako)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/TinotendaMakombe)
 
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [Setting up the template](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
