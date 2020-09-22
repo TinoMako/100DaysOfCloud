@@ -46,13 +46,13 @@ On this step we have to use EBS volumes, these are storage attachments that we h
 
 Tags are a very important part of the cloud, they help us to manage, search and filter resources. I watched a very informative video on Youtube about tags by Tieho-The-Engineer, this is the link to the video https://www.youtube.com/watch?v=zcAWYMeTLAE 
 
-![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(59).png)
+![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(60).png)
 
 ### Step 4 — Configuring Security Groups
 
 l struggled differentiating security groups and NACLs when l was studying for the cloud practitioner but now l think l have firm knowledge of their differences because of more hands on. Security group is a set of firewalls that control the traffic coming in and out of your instances. I created a security group, check the image below
 
-![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(60).png)
+![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(61).png)
 
 ## ☁️ Cloud Outcome
 
