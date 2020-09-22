@@ -33,9 +33,9 @@ An AMI is the operating system that will be launced on the server.
 ![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(56).png)
 
 
-### Step 1 — Summary of Step
+### Step 1 — Choosing the AMI type
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(57).png)
 
 ### Step 3 — Summary of Step
 
