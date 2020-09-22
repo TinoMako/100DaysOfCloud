@@ -21,13 +21,17 @@
 - ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
 - 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
+## Short Introduction
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+✍️ Amazon Elastic Compute Cloud(EC2) is a web service that provides secure, resizable compute capacity in the cloud.Knowing EC2 is fundamental to understanding how the cloud works. 
 
-### Step 1 — Summary of Step
+### Step 1 — Creating an Amazon Machine Image(AMI)
+
+I navigated to the the AWS console then typed EC2 into the services section.The next step was to click on Launch instances. After that l had to choose an AMI as shown below.
+An AMI is the operating system that will be launced on the server. 
 
 ![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(56).png)
+
 
 ### Step 1 — Summary of Step
 
