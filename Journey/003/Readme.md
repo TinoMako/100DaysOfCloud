@@ -43,7 +43,7 @@ So when we choose an AMI we also have to choose the type of machine. When choosi
 This step has so many options and as shown by the image below we can configure different details. A noteable element that l want to point out is that this where we
 can put the user data. This is a question that l have seen a lot in my Practice tests for SAA-C02.
 
-![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(58).png)
+https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(58).png
 
 ### Step 3 — Summary of Step
 
