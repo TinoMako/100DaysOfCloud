@@ -33,7 +33,7 @@ An AMI is the operating system that will be launced on the server.
 ![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(56).png)
 
 
-### Step 1 — Choosing the AMI type
+### Step 1 — Choosing the Instace type
 
 ![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(57).png)
 
