@@ -5,11 +5,11 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ So today l will be creating an EC2 instance then launch it using the AWS Console. EC2 is one of the most popular offering from AWS and l want yo know more about it.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ General knowledge of a computer and the internet is enough to understand this topic.
 
 ## Use Case
 
