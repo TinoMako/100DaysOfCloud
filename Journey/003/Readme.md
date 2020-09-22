@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://github.com/TinoMako/100DaysOfCloud/blob/main/AWS-EC2.png)
 
 # New post title here
 
