@@ -1,4 +1,4 @@
-**Add a cover photo like:**
+**Amazon EC2**
 ![placeholder image](https://github.com/TinoMako/100DaysOfCloud/blob/main/AWS-EC2.png)
 
 # New post title here
