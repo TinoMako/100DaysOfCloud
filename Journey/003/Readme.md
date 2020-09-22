@@ -38,6 +38,8 @@ can put the user data. This is a question that l have seen a lot in my Practice 
 
 ### Step 4 — Choosing Storage Type
 
+On this step we have to use EBS volumes, these are storage attachments that we have to connect to our instance. Think of this as hard drives for our computer in the cloud. We can also connect instance store which is described as ephemeral. Ephemera means this type of storage will lose data as soon as the instance is stopped or deleted. 
+
 ![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(59).png)
 
 ## ☁️ Cloud Outcome
