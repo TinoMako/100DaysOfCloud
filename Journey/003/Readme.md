@@ -36,9 +36,9 @@ can put the user data. This is a question that l have seen a lot in my Practice 
 
 ![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(58).png)
 
-### Step 4 — Summary of Step
+### Step 4 — Choosing Storage Type
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(59).png)
 
 ## ☁️ Cloud Outcome
 
