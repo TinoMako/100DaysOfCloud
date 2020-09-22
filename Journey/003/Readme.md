@@ -35,9 +35,13 @@ An AMI is the operating system that will be launced on the server.
 
 ### Step 2 — Choosing the Instance type
 
+So when we choose an AMI we also have to choose the type of machine. When choosing the type of machine we will be specyfing how powerful we want our machine to be. The options are shown on the image below.
+
 ![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(57).png)
 
-### Step 3 — Summary of Step
+### Step 3 — Configuring Instance Details
+This step has so many options and as shown by the image below we can configure different details. A noteable element that l want to point out is that this where we
+can put the user data. This is a question that l have seen a lot in my Practice tests for SAA-C02.
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
