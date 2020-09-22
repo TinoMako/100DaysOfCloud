@@ -27,7 +27,7 @@
 
 ### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(56).png)
 
 ### Step 1 — Summary of Step
 
