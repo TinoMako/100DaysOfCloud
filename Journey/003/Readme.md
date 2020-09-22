@@ -5,7 +5,7 @@
 
 ## Introduction
 
-✍️ So today l will be creating an EC2 instance then launch it using the AWS Console. EC2 is one of the most popular offering from AWS and l want yo know more about it.
+✍️ So today l will be creating an EC2 instance then launch it using the AWS Console. EC2 is one of the most popular offering from AWS and l want to know more about it.
 
 ## Prerequisite
 
