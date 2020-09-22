@@ -41,6 +41,10 @@ An AMI is the operating system that will be launced on the server.
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
+### Step 3 — Summary of Step
+
+![Screenshot](https://via.placeholder.com/500x300)
+
 ## ☁️ Cloud Outcome
 
 ✍️ (Result) Describe your personal outcome, and lessons learned.
