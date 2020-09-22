@@ -54,13 +54,19 @@ l struggled differentiating security groups and NACLs when l was studying for th
 
 ![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(61).png)
 
+### Step 4 — Launching The Instance
+
+We are done configuring the instance and all that is left is clicking the launch and voila our instance hs been launched.
+
+![Screenshot](https://github.com/TinoMako/100DaysOfCloud/blob/main/Screenshot%20(61).png)
+
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ EC2 is the service that got me interested in the cloud, the mere fact that you can have huge amount of compute power at the click of a button fascinates me. 
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+✍️ I will upload my images of SSH using Windows when l am done writing my practice test for the day. 
 
 ## Social Proof
 
