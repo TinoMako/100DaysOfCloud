@@ -11,19 +11,10 @@
 
 ✍️ General knowledge of a computer and the internet is enough to understand this topic.
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
 ## Short Introduction
 
-✍️ Amazon Elastic Compute Cloud(EC2) is a web service that provides secure, resizable compute capacity in the cloud.Knowing EC2 is fundamental to understanding how the cloud works. 
+✍️ Amazon Elastic Compute Cloud(EC2) is a web service that provides secure, resizable compute capacity in the cloud. Knowing EC2 is fundamental to understanding how the cloud works. 
 
 ### Step 1 — Creating an Amazon Machine Image(AMI)
 
