@@ -5,27 +5,19 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ I will be continuing from where l left off yesterday. We created our EC2 instance and now we have to figure out how to connect to it. Different operating systems have different ways of accessing instances. Windows 10 users, Linux users and Mac users can use SSH to connect but users of the previous windows before 10 will have to use Putty. Interestingly Windows 10 users can use both Putty and SSH. In this tutorial l will be using Putty even though l am using windows 10, l could have used SSH but l just felt like using Putty. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+✍️ Anyone can follow along.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+✍️ SSH is a cool way of allowing a user access to fully control a machine remotely using the command line.
 
-### Step 1 — Summary of Step
+### Step 1 — Downloading Putty
+
+The first thing we have to do is to download Putty. We just type 'Putty' on google and click on the first search result. After downloading we will install Putty which is just straightforward with not much hustle.
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
