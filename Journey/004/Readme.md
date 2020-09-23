@@ -1,7 +1,6 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+
+# How To SSH into an instance 
 
 ## Introduction
 
