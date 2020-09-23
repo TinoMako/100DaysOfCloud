@@ -18,7 +18,7 @@
 
 The first thing we have to do is to download Putty. We just type 'Putty' on google and click on the first search result. After downloading we will install Putty which is just straightforward with not much hustle.
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/45802047/93952190-88093980-fd48-11ea-9916-fb59c708e370.png)
 
 ### Step 1 — Summary of Step
 
