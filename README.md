@@ -26,7 +26,7 @@ By the end of the challenge l would want to be more conversant with the cloud an
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Setting up the template](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Creatin an EC2 Instance](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [ ] ☁️ 4 > [SSH into my EC2 Instance](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
