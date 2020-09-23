@@ -29,8 +29,7 @@ When we created our Instance, the consile wizard(??) asked us to download a keyp
 
 ### Step 3 — Using the Putty Key Generator
 
-After downloading the Private Key, we will open Putty Key Generator(just search for it on Windows Start) Click on file then load a file, a dialogue file will open asking you to load the Private Key File. At this moment you just locate where the file was saved. This can be tricky just make sure you choose all files in the type section. 
-
+After downloading the Private Key, we will open Putty Key Generator(just search for it on Windows Start) Click on file then load a file, a dialogue file will open asking you to load the Private Key File. At this moment you just locate where the file was saved. This can be tricky just make sure you choose all files in the type section. After locating the key we then save the new coverted file in ppk format. Our key has been converted, we then open our Putty application and paste in our public key address. In the left panel, we click on SSH then AUTH and load our ppk file. We then save the file and click open. Voila we have connected to our instance!
 
 ![Screenshot](https://user-images.githubusercontent.com/45802047/93952227-a0795400-fd48-11ea-8426-a715916584e4.png)
 
