@@ -36,7 +36,7 @@ After downloading the Private Key, we will open Putty Key Generator(just search 
 ### Step 2 — Connecting Using Putty 
 Our key has been converted, we then open our Putty application and paste in our public key address. In the left panel, we click on SSH then AUTH and load our ppk file. We then save the file and click open. Voila we have connected to our instance!
 
-![Screenshot](https://user-images.githubusercontent.com/45802047/93953095-cacc1100-fd4a-11ea-80ad-9fd8f0509430.png)
+![Screenshot](https://user-images.githubusercontent.com/45802047/93952236-a53e0800-fd48-11ea-9fd3-bc0b78b05bf7.png)
 
 ## ☁️ Cloud Outcome
 
