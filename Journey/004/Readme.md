@@ -24,7 +24,7 @@ The first thing we have to do is to download Putty. We just type 'Putty' on goog
 
 When we created our Instance, the consile wizard(??) asked us to download a keypair. What is a Key Pair you might ask. A key pair consists of a public key(stored by AWS) and a private key that a user stores. Together, these keys allow us to connect to our istance securely. 
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/45802047/93953095-cacc1100-fd4a-11ea-80ad-9fd8f0509430.png)
 
 ### Step 3 — Summary of Step
 
