@@ -20,13 +20,17 @@ The first thing we have to do is to download Putty. We just type 'Putty' on goog
 
 ![Screenshot](https://user-images.githubusercontent.com/45802047/93952190-88093980-fd48-11ea-9916-fb59c708e370.png)
 
-### Step 2 — Downloading A KeyPair then use Putty Key Generator
+### Step 2 — Downloading A KeyPair 
 
-When we created our Instance, the consile wizard(??) asked us to download a keypair. What is a Key Pair you might ask. A key pair consists of a public key(stored by AWS) and a private key that a user stores. Together, these keys allow us to connect to our istance securely. 
+When we created our Instance, the consile wizard(??) asked us to download a keypair. What is a Key Pair you might ask. A key pair consists of a public key(stored by AWS) and a private key that a user stores. Together, these keys allow us to connect to our instance securely. 
 
 ![Screenshot](https://user-images.githubusercontent.com/45802047/93953095-cacc1100-fd4a-11ea-80ad-9fd8f0509430.png)
 
-### Step 3 — Summary of Step
+
+### Step 3 — Using the Putty Key Generator
+
+After downloading the Private Key, we will open Putty Key Generator(just search for it on Windows Start) Click on file then load a file, a dialogue file will open asking you to load the Private Key File. At this moment you just locate where the file was saved. This can be tricky just make sure you choose all files in the type section. 
+
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
