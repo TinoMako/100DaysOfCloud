@@ -10,7 +10,7 @@
 
 ✍️ Anyone can follow along.
 
-## Try yourself
+## What does SSH do?
 
 ✍️ SSH is a cool way of allowing a user access to fully control a machine remotely using the command line.
 
