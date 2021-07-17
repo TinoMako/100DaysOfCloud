@@ -19,7 +19,7 @@ Starting this challenge will force me to be constistent with my cloud journey an
 By the end of the challenge l would want to be more conversant with the cloud and also design architectures in the cloud. 
 
 - (https://twitter.com/Tino_Mako)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/TinotendaMakombe)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/TinotendaMakombe1)
 
 ## Stepping out the door
 
